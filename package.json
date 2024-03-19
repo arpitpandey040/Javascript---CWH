@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pdf-node": "^1.0.1"
+  }
+}

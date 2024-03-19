@@ -1,0 +1,15 @@
+/* button{
+    background-color: aqua;
+    color: #000;
+    text-decoration: none;
+} */
+.bulb{
+    /* height: 341px;
+    width: 341px; */
+    background-color:  yellow;
+}
+
+.bulb-container{
+    width: 341px;
+    height: 341px;
+}

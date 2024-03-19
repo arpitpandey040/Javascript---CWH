@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+ul {
+    display: flex;
+}
+
+ul li{
+    text-decoration: none;
+    text-align: right;
+    margin: 0 23px;
+    padding: 20px 0;
+}
+li{
+    color: cyan;
+}
+
+.home{
+    color: red;
+}
